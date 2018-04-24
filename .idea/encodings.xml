@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/generic-linux-driver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jv-agent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jv-driver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kontron-driver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mac-driver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/packages" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/packages/kontron-agent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/packages/linux-agent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/packages/mac-agent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/packages/rpi-agent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/packages/win-agent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parking-pi-driver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/piface-driver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/remote-access-driver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rpi-driver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tinkerforge-driver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/win-driver" charset="UTF-8" />
+  </component>
+</project>

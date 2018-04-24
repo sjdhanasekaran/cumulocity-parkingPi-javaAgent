@@ -1,0 +1,31 @@
+{
+		"name": "Phenix Mall - Division 101",
+		"externalname":"phenix_Mall-101",
+		"pitype":"c8y_serial",
+		"location": {
+			"lng":80.24666860000002,
+      		"lat":12.9858999
+		},
+		"sensors" : [
+			{
+			"name": "Slot-A",
+			"trig": "1",
+         	"echo": "4"
+		},
+		{
+			"name": "Slot-B",
+			"trig": "5",
+         	"echo": "6"
+		},
+		{
+			"name": "Slot-C",
+			"trig": "26",
+         	"echo": "27"
+		},
+		{
+			"name": "Slot-D",
+			"trig": "29",
+         	"echo": "25"
+		}
+		]
+	}

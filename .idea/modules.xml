@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/c8y-Agent-Java.iml" filepath="$PROJECT_DIR$/.idea/c8y-Agent-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/kontron-agent/cumulocity-kontron-agent.iml" filepath="$PROJECT_DIR$/packages/kontron-agent/cumulocity-kontron-agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/linux-agent/cumulocity-linux-agent.iml" filepath="$PROJECT_DIR$/packages/linux-agent/cumulocity-linux-agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/mac-agent/cumulocity-mac-agent.iml" filepath="$PROJECT_DIR$/packages/mac-agent/cumulocity-mac-agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/rpi-agent/cumulocity-rpi-agent.iml" filepath="$PROJECT_DIR$/packages/rpi-agent/cumulocity-rpi-agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/win-agent/cumulocity-win-agent.iml" filepath="$PROJECT_DIR$/packages/win-agent/cumulocity-win-agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generic-linux-driver/generic-linux-driver.iml" filepath="$PROJECT_DIR$/generic-linux-driver/generic-linux-driver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jv-agent/jv-agent.iml" filepath="$PROJECT_DIR$/jv-agent/jv-agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assembly/jv-agent-assembly.iml" filepath="$PROJECT_DIR$/assembly/jv-agent-assembly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jv-driver/jv-driver.iml" filepath="$PROJECT_DIR$/jv-driver/jv-driver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/jv-packages.iml" filepath="$PROJECT_DIR$/packages/jv-packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kontron-driver/kontron-driver.iml" filepath="$PROJECT_DIR$/kontron-driver/kontron-driver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mac-driver/mac-driver.iml" filepath="$PROJECT_DIR$/mac-driver/mac-driver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parking-pi-driver/parking-pi-driver.iml" filepath="$PROJECT_DIR$/parking-pi-driver/parking-pi-driver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/piface-driver/piface-driver.iml" filepath="$PROJECT_DIR$/piface-driver/piface-driver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remote-access-driver/remote-access-driver.iml" filepath="$PROJECT_DIR$/remote-access-driver/remote-access-driver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpi-driver/rpi-driver.iml" filepath="$PROJECT_DIR$/rpi-driver/rpi-driver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tinkerforge-driver/tinkerforge-driver.iml" filepath="$PROJECT_DIR$/tinkerforge-driver/tinkerforge-driver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/win-driver/win-driver.iml" filepath="$PROJECT_DIR$/win-driver/win-driver.iml" />
+    </modules>
+  </component>
+</project>

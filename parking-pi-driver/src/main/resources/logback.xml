@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <appender name="FIRST" class="ch.qos.logback.core.FileAppender">
+        <file>/home/pi/Desktop/c8y/log.log</file>
+        <append>true</append>
+        <encoder>
+            <pattern>%d %logger{35} - %msg%n</pattern>
+        </encoder>
+    </appender>
+    <logger name="com.softwareag.parkingpi">
+        <level value="DEBUG" />
+        <appender-ref ref="FIRST"/>
+    </logger>
+</configuration>

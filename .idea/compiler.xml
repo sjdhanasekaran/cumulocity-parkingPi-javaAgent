@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="generic-linux-driver" />
+        <module name="jv-agent" />
+        <module name="jv-agent-assembly" />
+        <module name="jv-driver" />
+        <module name="kontron-driver" />
+        <module name="mac-driver" />
+        <module name="parking-pi-driver" />
+        <module name="piface-driver" />
+        <module name="remote-access-driver" />
+        <module name="rpi-driver" />
+        <module name="tinkerforge-driver" />
+        <module name="win-driver" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="c8y-Agent-Java" target="1.7" />
+      <module name="cumulocity-kontron-agent" target="1.7" />
+      <module name="cumulocity-linux-agent" target="1.7" />
+      <module name="cumulocity-mac-agent" target="1.7" />
+      <module name="cumulocity-rpi-agent" target="1.7" />
+      <module name="cumulocity-win-agent" target="1.7" />
+      <module name="generic-linux-driver" target="1.7" />
+      <module name="jv-agent" target="1.7" />
+      <module name="jv-agent-assembly" target="1.5" />
+      <module name="jv-driver" target="1.7" />
+      <module name="jv-packages" target="1.7" />
+      <module name="kontron-driver" target="1.7" />
+      <module name="mac-driver" target="1.7" />
+      <module name="parking-pi-driver" target="1.8" />
+      <module name="piface-driver" target="1.7" />
+      <module name="remote-access-driver" target="1.7" />
+      <module name="rpi-driver" target="1.7" />
+      <module name="tinkerforge-driver" target="1.7" />
+      <module name="win-driver" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
